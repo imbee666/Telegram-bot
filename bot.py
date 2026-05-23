@@ -17,7 +17,7 @@ import os
 # =========================
 # TOKEN
 # =========================
-TOKEN = os.getenv("8993909189:AAEh6viwCqmTuqKFO6lm1Q4K9jG3uThHErk")
+TOKEN = os.getenv("TOKEN")
 
 
 # =========================
